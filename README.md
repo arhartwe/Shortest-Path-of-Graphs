@@ -32,11 +32,10 @@ Files Included
 2) List.c		- Doubly Linked List ADT
 3) Graph.h		- Graph Header file
 4) Graph.c 		- Graph ADT
-5) GraphTest.c		- Graph Tester file
-6) Findpath.c		- Program's main. Takes file input and prints to output the
+5) Findpath.c		- Program's main. Takes file input and prints to output the
 			- adjaceny list representatio, the distance
 			- and shortest paths of vertices from specified input
-7) Makefile		- Makefile to compile all source files
-8) README 		- Program desription and list of included files
+6) Makefile		- Makefile to compile all source files
+7) README 		- Program desription and list of included files
 
 
